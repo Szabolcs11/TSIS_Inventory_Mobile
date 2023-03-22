@@ -1,0 +1,27 @@
+{
+  "SearchTitle": {
+    "hu": "Keresés",
+    "en": "Search",
+    "rs": "Pretraga"
+  },
+  "All": {
+    "hu": "Összes",
+    "en": "All",
+    "rs": "Sve"
+  },
+  "ClassroomTitle": {
+    "hu": "Tantermi",
+    "en": "Classroom",
+    "rs": "Učionica"
+  },
+  "NameLabel": {
+    "hu": "Név",
+    "en": "Name",
+    "rs": "Ime"
+  },
+  "NoResultsFound": {
+    "hu": "Nincs találat",
+    "en": "No results found",
+    "rs": "Nema rezultata"
+  }
+}

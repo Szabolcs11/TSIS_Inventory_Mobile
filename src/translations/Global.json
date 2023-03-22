@@ -1,0 +1,27 @@
+{
+  "Error": {
+    "hu": "Hiba",
+    "en": "Error",
+    "rs": "Greška"
+  },
+  "Success": {
+    "hu": "Siker",
+    "en": "Success",
+    "rs": "Uspeh"
+  },
+  "Loading": {
+    "hu": "Betöltés",
+    "en": "Loading",
+    "rs": "Učitavanje"
+  },
+  "Logout": {
+    "hu": "Kijelentkezés",
+    "en": "Logout",
+    "rs": "Odjava"
+  },
+  "ErrorDuringUpploadingImage": {
+    "hu": "Hiba történt a kép feltöltése közben",
+    "en": "Error during image upload",
+    "rs": "Greška prilikom učitavanja slike"
+  }
+}

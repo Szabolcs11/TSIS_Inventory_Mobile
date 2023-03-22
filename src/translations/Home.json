@@ -1,0 +1,12 @@
+{
+  "Welcome": {
+    "hu": "Üdvözöllek",
+    "en": "Welcome",
+    "rs": "Dobrodošli"
+  },
+  "ScanQRCode": {
+    "hu": "QR kód olvasása",
+    "en": "Scan QR code",
+    "rs": "Skeniraj QR kod"
+  }
+}
